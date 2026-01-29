@@ -1,0 +1,14 @@
+[2026-01-29 12:17:41] Disaster detected | Severity: HIGH
+[2026-01-29 12:17:46] Disaster detected | Severity: MEDIUM
+[2026-01-29 12:17:51] Disaster detected | Severity: MEDIUM
+[2026-01-29 12:17:56] Disaster detected | Severity: MEDIUM
+[2026-01-29 12:18:01] Disaster detected | Severity: HIGH
+[2026-01-29 12:18:06] Disaster detected | Severity: MEDIUM
+[2026-01-29 12:18:11] Disaster detected | Severity: MEDIUM
+[2026-01-29 12:18:16] Disaster detected | Severity: HIGH
+[2026-01-29 12:18:21] Disaster detected | Severity: LOW
+[2026-01-29 12:18:26] Disaster detected | Severity: MEDIUM
+[2026-01-29 12:18:31] Disaster detected | Severity: LOW
+[2026-01-29 12:18:36] Disaster detected | Severity: HIGH
+[2026-01-29 12:19:27] Disaster detected | Severity: LOW
+[2026-01-29 12:19:32] Disaster detected | Severity: LOW
