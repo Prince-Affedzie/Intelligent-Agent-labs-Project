@@ -12,3 +12,13 @@
 [2026-01-29 12:18:36] Disaster detected | Severity: HIGH
 [2026-01-29 12:19:27] Disaster detected | Severity: LOW
 [2026-01-29 12:19:32] Disaster detected | Severity: LOW
+[2026-02-11 10:47:39] Disaster detected | Type: EARTHQUAKE | Severity: MEDIUM
+[2026-02-11 10:47:44] Disaster detected | Type: EARTHQUAKE | Severity: HIGH
+[2026-02-11 10:47:49] Disaster detected | Type: FLOOD | Severity: MEDIUM
+[2026-02-11 10:47:54] Disaster detected | Type: EARTHQUAKE | Severity: HIGH
+[2026-02-11 10:47:59] Disaster detected | Type: FIRE | Severity: HIGH
+[2026-02-11 10:48:04] Disaster detected | Type: EARTHQUAKE | Severity: HIGH
+[2026-02-11 10:48:09] Disaster detected | Type: FIRE | Severity: HIGH
+[2026-02-11 10:48:14] Disaster detected | Type: FIRE | Severity: MEDIUM
+[2026-02-11 10:48:19] Disaster detected | Type: LANDSLIDE | Severity: MEDIUM
+[2026-02-11 10:48:24] Disaster detected | Type: FIRE | Severity: LOW

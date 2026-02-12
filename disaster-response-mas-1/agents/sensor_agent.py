@@ -1,7 +1,6 @@
 from spade.agent import Agent
 from spade.behaviour import PeriodicBehaviour, CyclicBehaviour
 from spade.message import Message
-import asyncio
 from datetime import datetime
 from environment.disaster_environment import DisasterEnvironment
 
@@ -55,25 +54,5 @@ class SensorAgent(Agent):
 
         self.environment = DisasterEnvironment()
 
-        # Add behaviours
         self.add_behaviour(self.SenseEnvironment(period=5))
         self.add_behaviour(self.ReceiveResponse())
-
-
-async def main():
-    agent = SensorAgent(
-        "oheneba@xmpp.jp",
-        "Prince5As//2021"
-    )
-
-    await agent.start()
-
-    try:
-        while True:
-            await asyncio.sleep(1)
-    except KeyboardInterrupt:
-        await agent.stop()
-
-
-if __name__ == "__main__":
-    asyncio.run(main())
